@@ -1,0 +1,49 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E271" />
+          <option value="E231" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pytest_fixture.conftest.init_chrome_browser.find_element" />
+          <option value="pytest_fixture.conftest.init_chrome_browser.close" />
+          <option value="typing.TextIO.__getitem__" />
+          <option value="set.__add__" />
+          <option value="polymorphism.example4.RBI.__add__" />
+          <option value="pytest_fixture_examples.conftest.init_chrome_browser_setup.get" />
+          <option value="pytest_fixture_examples.conftest.init_chrome_browser_setup.maxmize_window" />
+          <option value="pytest_fixture_examples.test_Selenium_fixture3.Test_Chrome_browser.driver" />
+          <option value="fixture_tutorial.conftest.Edge_setup.title" />
+          <option value="fixture_tutorial.conftest.Edge_setup.find_element" />
+          <option value="fixture_tutorial.conftest.Edge_setup.current_url" />
+          <option value="fixture_tutorial.conftest.Chrome_setup.find_element" />
+          <option value="fixture_tutorial.conftest.Chrome_setup.title" />
+          <option value="fixture_tutorial.conftest.Chrome_setup.current_url" />
+          <option value="fixture_tutorial.conftest.Firefox_setup.find_element" />
+          <option value="fixture_tutorial.conftest.Firefox_setup.current_url" />
+          <option value="fixture_tutorial.conftest.Firefox_setup.title" />
+          <option value="fixture_tutorial.test_fixture7.Test_all_browsers.driver" />
+          <option value="fixture_tutorial1.conftest.Chrome_setup.title" />
+          <option value="fixture_tutorial1.conftest.Chrome_setup.current_url" />
+          <option value="fixture_tutorial1.conftest.Chrome_setup.find_element" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
